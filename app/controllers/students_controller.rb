@@ -8,7 +8,9 @@ class StudentsController < ApplicationController
   def show
   end
   
-  def
+  def activate
+    
+  end 
 
   private
 
