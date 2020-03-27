@@ -1,3 +1,3 @@
 class AddColumnActiveToStudents < ActiveRecord::Migration
-  add_column 
+  add_column :students, 
 end 
